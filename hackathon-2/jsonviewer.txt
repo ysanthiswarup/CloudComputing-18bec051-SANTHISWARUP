@@ -1,0 +1,39 @@
+[14:27, 3/1/2021] Nikhil Kumar: {
+  'Records': [
+    {
+      'eventVersion': '2.1',
+      'eventSource': 'aws:s3',
+      'awsRegion': 'ap-south-1',
+      'eventTime': '2021-02-28T09:00:18.630Z',
+      'eventName': 'ObjectCreated:Put',
+      'userIdentity': {
+        'principalId': 'A123HLHDLSEIV1'
+      },
+      'requestParameters': {
+        'sourceIPAddress': '223.185.67.166'
+      },
+      'responseElements': {
+        'x-amz-request-id': '19FD2B509BB58C1A',
+        'x-amz-id-2': 'hLiFhaFm/Pi0AczXWHKX7Svx2OmuQxAsjZEryUTgaV25u4HyeHav65xEZf75+fDLw4Ckb0RsTNaz/QwU0BOikvwa+IVjPfdl'
+      },
+      's3': {
+        's3SchemaVersion': '1.0',
+        'configurationId': 'json-s3-bucket',
+        'bucket': {
+          'name': 'json-s3-bucket',
+          'ownerIdentity': {
+            'principalId': 'A123HLHDLSEIV1'
+          },
+          'arn': 'arn:aws:s3:::json-s3-bucket'
+        },
+        'object': {
+          'key': 'emp.json',
+          'size': 71,
+          'eTag': 'c7b559be86454da355274003899447c4',
+          'versionId': 'e1R8eYpxiMbGWjkNg9Cfsrsm1TYTwDp5',
+          'sequencer': '00603B5BA8D5E20021'
+        }
+      }
+    }
+  ]
+}
