@@ -62,5 +62,14 @@ WORDPRESS
         And also an pdf which tells how we done the hosting.
         Domain : cloudcomputing.online
 
+AWS LIGHTSAIL
+
+        This folder contains the scrn shots and pdf about
+        1.How to host a website using lightsail.
+        This is an another method to do web-hosting 
+        This is very easy when compared with doing route53 and stuff
+        in just 5min we can create and host this.
+        this is other thing which we explored in aws.
+
 
 
