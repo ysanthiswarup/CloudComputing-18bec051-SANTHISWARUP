@@ -55,3 +55,12 @@ AWS REKOGNITION
           5. Use cases
           6. Input images
           7. Output result screenshots
+
+WORDPRESS
+
+        This folder contains Scrn shots of our website hosting using AWS Route 53.
+        And also an pdf which tells how we done the hosting.
+        Domain : cloudcomputing.online
+
+
+
